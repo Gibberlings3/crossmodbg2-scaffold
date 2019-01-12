@@ -12,7 +12,7 @@ So, as the maintainers of this mod, we ask for your (the modder) help! If you wi
 
 **NOTE**: These steps should be followed AFTER you've tested your code (you did test it, right?)
 
-This template will get you started. Download this repository and extract the zip somewhere. Take a look at the folders in here. You're going to be putting your crossmod content in there. When you're ready to submit, send it off to a Gibberlings 3 moderator or admin and we'll get it into the mod.
+This template will get you started. Download this repository and extract the zip somewhere. Take a look at the folders in here. You're going to be putting your crossmod content in there. When you're ready to submit, zip it up and send it off to a Gibberlings 3 moderator or admin and we'll get it into the mod.
 
 **NOTE**:
 - All dialogue must be tra-fied
