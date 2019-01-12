@@ -71,4 +71,4 @@ END
 Finally, we ask that you compile a list of the banters so that we can update readmes and announcements.
 
 - 5 banters between theacefes' Auren and theacefes' Sarah
-- 6 banters between theacefes' Banana! and theacefes' Skooter
+- 6 unnecessary banters between theacefes' Banana! and theacefes' Skooter
