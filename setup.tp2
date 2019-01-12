@@ -1,0 +1,12 @@
+/* THIS IS JUST AN EXAMPLE */
+
+/* Auren - Sarah SoA Material */    // # of banters
+ACTION_IF FILE_EXISTS_IN_GAME ~k#aurenb.dlg~ AND FILE_EXISTS_IN_GAME ~k#sarahb.dlg~
+THEN BEGIN
+    PRINT @000 /* Adding SoA banters between Auren and Sarah... */
+    APPEND_OUTER ~crossmodbg2/crossmod_0_debug.log~ ~Adding SoA banters between Auren and Sarah..~
+    COMPILE ~crossmodbg2/soa/banters/soa_auren-sarah/soa_elaryn-auren-sarah.d~
+END ELSE BEGIN
+    PRINT @000 /* k#aurenb.dlg and/or k#sarahb.dlg not detected. Skipping these particular SoA banters. */
+    APPEND_OUTER ~crossmodbg2/crossmod_0_debug.log~ ~K#AurenB.dlg and/or K#SarahB.dlg not detected. Skipping these particular SoA banters.~
+END
